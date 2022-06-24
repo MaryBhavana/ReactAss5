@@ -1,0 +1,21 @@
+body{
+    background-color:antiquewhite;
+}
+
+.pure{
+    /* background-color: aquamarine; */
+    /* border: 1px solid black; */
+    margin: 20px;
+
+}
+
+p{
+ text-align: left;
+ position: relative;
+ left:30px;
+}
+ ul{
+    text-align: left;
+    font-size: 20px;
+ }
+
